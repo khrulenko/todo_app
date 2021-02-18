@@ -1,4 +1,4 @@
-[LINK](https://khrulenko.github.io/todo_app/)
+[LINK to app preview](https://khrulenko.github.io/todo_app/)
 
 Functionality:
   - Ability to add add tasks(todos) to the list;
